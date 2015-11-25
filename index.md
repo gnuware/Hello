@@ -1,6 +1,6 @@
 # Mou
 
-![Mou icon](file:///res/mou.png)
+![Mou icon](./res/mou_128x128.png)
 
 ## Overview
 
